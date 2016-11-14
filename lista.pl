@@ -1,5 +1,5 @@
 soma(A, B, C) :- C is A + B.
-
+%Linha diferente
 
 largura(sala, 4).
 largura(quarto, 3).
